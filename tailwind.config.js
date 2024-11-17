@@ -30,6 +30,7 @@ export default {
       },
       backgroundImage: {
         hero: "url('assets/images/collection-background.svg')",
+        hero2: "url('assets/images/collection2-background.svg')",
         card: "url('assets/images/thumbnail-background.svg')",
       },
       screens: {
